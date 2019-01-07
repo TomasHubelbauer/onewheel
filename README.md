@@ -30,3 +30,4 @@ Ride mode numbers are:
 
 - [ ] Verify these names still match
 - [ ] Find out what the number is for custom
+- [ ] See why OneWhell Web won't connect anymore (new service ISs?)
