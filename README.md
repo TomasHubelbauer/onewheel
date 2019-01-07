@@ -2,6 +2,8 @@
 
 Collection of cool Onewheel resources.
 
+- https://github.com/Lauszus/OneWheeledSkateboard
+- https://github.com/OnlyInAmerica/OneWheelMonitor
 - https://drewbaumann.github.io/onewheel-web/
   - https://github.com/drewbaumann/onewheel-web
 - https://github.com/ponewheel/android-ponewheel
