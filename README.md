@@ -1,5 +1,9 @@
 # Onewheel ➖⚫➖
 
+Project idea:
+
+A LED strip with a BT chip on it listening on the OW BT values for battery level and displaying the level on the board.
+
 Collection of cool Onewheel resources.
 
 - https://github.com/Lauszus/OneWheeledSkateboard
