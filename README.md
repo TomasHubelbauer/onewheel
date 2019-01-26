@@ -28,6 +28,9 @@ Collection of cool Onewheel resources.
 - https://github.com/kariudo/onewheel-bluetooth
   - https://github.com/kariudo/onewheel-bluetooth/blob/master/readdata.py
   - https://github.com/kariudo/onewheel-bluetooth/blob/master/onewheel/characteristics.py
+- App APKs:
+  - https://www.apkturbo.com/apps/onewheel/com.rideonewheel.onewheel/
+  - https://apkpure.com/onewheel/com.rideonewheel.onewheel
 
 Ride mode numbers are:
 
