@@ -20,6 +20,14 @@ Collection of cool Onewheel resources.
   - HW revision characteristic is `e659f318-ea98-11e3-ac10-0800200c9a66`
   - FW revision characteristic is `e659f311-ea98-11e3-ac10-0800200c9a66`
   - Ride mode number characteristic is `e659f302-ea98-11e3-ac10-0800200c9a66`
+- https://github.com/COM8/UWP-Onewheel
+  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/Consts.cs
+  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelCharacteristicsCache.cs
+  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelType.cs
+  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelUnlockHelper.cs
+- https://github.com/kariudo/onewheel-bluetooth
+  - https://github.com/kariudo/onewheel-bluetooth/blob/master/readdata.py
+  - https://github.com/kariudo/onewheel-bluetooth/blob/master/onewheel/characteristics.py
 
 Ride mode numbers are:
 
