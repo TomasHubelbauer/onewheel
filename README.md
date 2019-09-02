@@ -1,18 +1,28 @@
 # Onewheel ➖⚫➖
 
-Project idea:
+## Gear
 
-A LED strip with a BT chip on it listening on the OW BT values for battery level and displaying the level on the board.
+https://www.reddit.com/r/onewheel/comments/bwj4vi/master_list_of_aftermarket_companies_for_ow
 
-Collection of cool Onewheel resources.
+- Float plates
+- Concave foot pads
+- Fangs
+- Fins https://www.flightfins.com
+- Pads
+- Leg braces https://profitprosthetics.com/service/leg-braces
+- Tires https://shreddlabs.com/2019/05/22/tires
+- Battery expansion (Plus, Plus XR, Pint)
 
-- https://github.com/Lauszus/OneWheeledSkateboard
+## Apps
+
 - https://github.com/OnlyInAmerica/OneWheelMonitor
-- https://drewbaumann.github.io/onewheel-web/
-  - https://github.com/drewbaumann/onewheel-web
+- https://github.com/drewbaumann/onewheel-web
 - https://github.com/ponewheel/android-ponewheel
-  - https://play.google.com/store/apps/details?id=net.kwatts.powtools&hl=en
-- OWheelBuddy (seems to be discontinued) used to be an alternative OW app
+- https://github.com/COM8/UWP-Onewheel
+- https://github.com/kariudo/onewheel-bluetooth
+
+## BTLE
+
 - BTLE service name seems to be `e659f300-ea98-11e3-ac10-0800200c9a66`
   - Battery level charasteristic is `e659f303-ea98-11e3-ac10-0800200c9a66`
   - Odometer characteristic is `e659f319-ea98-11e3-ac10-0800200c9a66`
@@ -20,19 +30,8 @@ Collection of cool Onewheel resources.
   - HW revision characteristic is `e659f318-ea98-11e3-ac10-0800200c9a66`
   - FW revision characteristic is `e659f311-ea98-11e3-ac10-0800200c9a66`
   - Ride mode number characteristic is `e659f302-ea98-11e3-ac10-0800200c9a66`
-- https://github.com/COM8/UWP-Onewheel
-  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/Consts.cs
-  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelCharacteristicsCache.cs
-  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelType.cs
-  - https://github.com/COM8/UWP-Onewheel/blob/master/OnewheelBluetooth/Classes/OnewheelUnlockHelper.cs
-- https://github.com/kariudo/onewheel-bluetooth
-  - https://github.com/kariudo/onewheel-bluetooth/blob/master/readdata.py
-  - https://github.com/kariudo/onewheel-bluetooth/blob/master/onewheel/characteristics.py
-- App APKs:
-  - https://www.apkturbo.com/apps/onewheel/com.rideonewheel.onewheel/
-  - https://apkpure.com/onewheel/com.rideonewheel.onewheel
 
-Ride mode numbers are:
+##  Modes
 
 | # | Mode     |
 |---|----------|
@@ -42,7 +41,3 @@ Ride mode numbers are:
 | 4 | Sequoia  |
 | 5 | Cruz     |
 | 6 | Mission  |
-
-- [ ] Verify these names still match
-- [ ] Find out what the number is for custom
-- [ ] See why OneWhell Web won't connect anymore (new service ISs?)
