@@ -1,5 +1,7 @@
 # Onewheel ➖⚫➖
 
+![](pint.png)
+
 ## Gear
 
 https://www.reddit.com/r/onewheel/comments/bwj4vi/master_list_of_aftermarket_companies_for_ow
