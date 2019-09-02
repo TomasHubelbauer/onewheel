@@ -13,7 +13,7 @@ https://www.reddit.com/r/onewheel/comments/bwj4vi/master_list_of_aftermarket_com
 - Pads
 - Leg braces https://profitprosthetics.com/service/leg-braces
 - Tires https://shreddlabs.com/2019/05/22/tires
-- Battery expansion (Plus, Plus XR, Pint)
+- Battery expansion (Plus, Plus XR, Pint) https://carvepower.com/collections/charging
 
 ## Apps
 
