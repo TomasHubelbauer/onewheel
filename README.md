@@ -2,18 +2,86 @@
 
 ![](pint.png)
 
-## Gear
-
-https://www.reddit.com/r/onewheel/comments/bwj4vi/master_list_of_aftermarket_companies_for_ow
-
-- Float plates
-- Concave foot pads
-- Fangs
-- Fins https://www.flightfins.com
-- Pads
-- Leg braces https://profitprosthetics.com/service/leg-braces
+- Sidekicks = rail protection
+- Float plates = underside protection
+- Footpad = the foot pad, duh, can be flat or concave
+- Grip/griptape = the grip tape
+- Fender = wheel enclosure
 - Tires https://shreddlabs.com/2019/05/22/tires
-- Battery expansion (Plus, Plus XR, Pint) https://carvepower.com/collections/charging
+- Bearings
+- Stands
+- Helmets
+- Pads
+- Fins = hooks on the fender to jump with the board
+- Guards = can be float plates or sidekicks
+- Handles
+- Railwrap = tape for ya rail
+- Chargers
+- Extenders
+- Braces https://profitprosthetics.com/service/leg-braces
+
+## [Float Supply](https://float-supply.com)
+
+Sidekicks, float plates, apparel, footpads, grips, fenders, tires, bearings, stands, gear, swag, hardware, blems.
+
+## [Flight Fins](https://www.flightfins.com)
+
+Fins, fenders, tires, plates, handles, sidekicks, apparel, hardware.
+
+## [Craft and Ride (CnR)](https://craftandride.com)
+
+Fenders, footpads, handles, float plates, sidekicks, bags, tires, gear.
+
+## [OW Armor](https://owarmor.com)
+
+Footpads.
+
+## [LandSurf](https://land-surf.com)
+
+Fangs, handles, power.
+
+## [Pro Rider USA](https://www.prorideusa.com)
+
+Footpads.
+
+## [Jon Rambo](https://www.instagram.com/njcustom)
+
+Magentic fender.
+
+## [Float365](http://float365.club)
+
+Rail wraps.
+
+## Others
+
+- https://www.elitecustomsow.com - reflective rails, aluminum plates, stickers, etc.
+- Amazon: XLR female Noise Reducing Caps - PTFE (Teflon) Insulation - Nickel Plated - Pack of 2
+- https://www.badgerwheel.com - water protection, snow traction cover, bearing cover, etc.
+- https://eliteinnovationsllc.com - Recon rails, flight fin extenders
+- https://www.fishbones.life - frontpad concave add-on
+- Electricbigfoot (Instagram) - front concave pad that layers above sensor.
+- https://carvepower.com - battery + collabs (kush pad)
+- https://carbon-smith.com/shop?olsPage=t%2 - Frontwheel detachable handles, wheels, bumpers with handles and wheels
+- www.sonnywheels.com - extended battery mods (VNR / PNR) + OW jewelry
+- http://gofullsend.com - FF extender and Go full send system
+- https://two-x.com - OW Plus battery extension modification.
+- https://buckwilders.com - Tires + extras
+- https://plugbrush.com - multipurpose power cover
+- https://www.amazon.com/dp/B07WGFZ39F/ - OW mounted carrying sack
+- www.stokebutter.com - OW apparel.
+- https://buckwilders.com/
+- plugbrush.com 
+- https://carbon-smith.com/shop?olsPage=t%2Fonewheel
+
+https://carvepower.com/
+Battery charger
+Rails
+Grip tape
+
+http://thefloat.life/product-category/extras/
+Float plates
+
+https://eight2ten.com/products/old-school-rail-guards
 
 ## Apps
 
