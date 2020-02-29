@@ -2,6 +2,16 @@
 
 ![](pint.png)
 
+[Pint RnR](https://www.youtube.com/watch?v=4tgbhAboIfM)
+
+## Glossary
+
+- VnR - vamp and ride
+- RnR - ride and ride?
+- CnR - change and ride
+
+## Accessories
+
 - Sidekicks = rail protection
 - Float plates = underside protection
 - Footpad = the foot pad, duh, can be flat or concave
@@ -21,39 +31,39 @@
 - Braces https://profitprosthetics.com/service/leg-braces
 - Backpack https://www.youtube.com/watch?v=wajZ-GGJrwU
 
-## [Float Supply](https://float-supply.com)
+### [Float Supply](https://float-supply.com)
 
 Sidekicks, float plates, apparel, footpads, grips, fenders, tires, bearings, stands, gear, swag, hardware, blems.
 
-## [Flight Fins](https://www.flightfins.com)
+### [Flight Fins](https://www.flightfins.com)
 
 Fins, fenders, tires, plates, handles, sidekicks, apparel, hardware.
 
-## [Craft and Ride (CnR)](https://craftandride.com)
+### [Craft and Ride (CnR)](https://craftandride.com)
 
 Fenders, footpads, handles, float plates, sidekicks, bags, tires, gear.
 
-## [OW Armor](https://owarmor.com)
+### [OW Armor](https://owarmor.com)
 
 Footpads.
 
-## [LandSurf](https://land-surf.com)
+### [LandSurf](https://land-surf.com)
 
 Fangs, handles, power.
 
-## [Pro Rider USA](https://www.prorideusa.com)
+### [Pro Rider USA](https://www.prorideusa.com)
 
 Footpads.
 
-## [Jon Rambo](https://www.instagram.com/njcustom)
+### [Jon Rambo](https://www.instagram.com/njcustom)
 
 Magentic fender.
 
-## [Float365](http://float365.club)
+### [Float365](http://float365.club)
 
 Rail wraps.
 
-## Others
+### Others
 
 - https://www.elitecustomsow.com - reflective rails, aluminum plates, stickers, etc.
 - Amazon: XLR female Noise Reducing Caps - PTFE (Teflon) Insulation - Nickel Plated - Pack of 2
